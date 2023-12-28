@@ -1,7 +1,7 @@
 # Niken AI ![Static Badge](https://img.shields.io/badge/MARCH15-blue)
 
 
-<img src="https://avatars.githubusercontent.com/u/155090136?v=4" width="200" height="400" align="left">
+<img src="https://avatars.githubusercontent.com/u/155090136?v=4" width="200" height="300" align="left">
 
 ![Static Badge](https://img.shields.io/badge/CODE-417598?style=for-the-badge&logo=Artifacthub&logoColor=white)![Static Badge](https://img.shields.io/badge/MARCH15-E6526F?style=for-the-badge&logo=Code&logoColor=pink)
 
